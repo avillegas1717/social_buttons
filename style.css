@@ -1,0 +1,47 @@
+.facebook {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 15px;
+    position: relative;
+    background-color: #1877f2;
+    border-radius: 60px;
+}
+
+.facebook .facebook-logo {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+
+.google {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 15px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 60px;
+}
+
+.google .google-logo {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+
+.apple {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 15px;
+    position: relative;
+    background-color: #000000;
+    border-radius: 60px;
+}
+
+.apple .apple-logo {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
